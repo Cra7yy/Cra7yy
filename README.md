@@ -12,7 +12,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Cra7yy)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Cra7yy)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cra7yy&theme=solarized_dark)
 
