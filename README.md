@@ -11,6 +11,8 @@
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cra7yy&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cra7yy&theme=solarized_dark)
+
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
