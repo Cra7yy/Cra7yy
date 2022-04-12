@@ -26,7 +26,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-## моя статистика
+## :balance_scale: Моя статистика
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cra7yy&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cra7yy&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cra7yy&theme=solarized_dark)
